@@ -1,0 +1,2 @@
+# fabamaq
+Exercise for interview
